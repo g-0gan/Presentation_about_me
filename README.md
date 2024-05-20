@@ -21,9 +21,6 @@ venv/scripts/activate
 pip install -r requirements.txt
 ```
 
-### create a presentation
 
-```bash
-python presentation\main.py
-```
+
 
