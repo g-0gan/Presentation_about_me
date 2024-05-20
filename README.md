@@ -1,6 +1,7 @@
-# PYGAME+PYGBAG template
+# Presentation "About Myself"
 
-A working template to start coding. Just a colored screen and some infrastructure.
+In this repo I made a presentation about myself by using Python lib python-pptx
+
 
 ### deploy virtual environment
 
@@ -20,14 +21,9 @@ venv/scripts/activate
 pip install -r requirements.txt
 ```
 
-### run pygame
+### create a presentation
 
 ```bash
-python game/main.py
+python presentation\main.py
 ```
 
-### build html
-
-```bash
-pygbag --build game
-```
